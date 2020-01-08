@@ -1,0 +1,5 @@
+# Diff checker for docker swarm
+script for Continuous Deployment, that checks if there are differences between
+env variables of example file and deployed stack file.
+
+This is done using portainer API.
